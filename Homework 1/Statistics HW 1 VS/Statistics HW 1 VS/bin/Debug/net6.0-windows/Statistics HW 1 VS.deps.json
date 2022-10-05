@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Statistics HW 1 VS/1.0.0": {
+        "runtime": {
+          "Statistics HW 1 VS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Statistics HW 1 VS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

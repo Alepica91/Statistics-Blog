@@ -1,0 +1,17 @@
+C:\Users\Alessandro\source\repos\Statistics HW 1 VS\Statistics HW 1 VS\bin\Debug\net6.0-windows\Statistics HW 1 VS.exe
+C:\Users\Alessandro\source\repos\Statistics HW 1 VS\Statistics HW 1 VS\bin\Debug\net6.0-windows\Statistics HW 1 VS.deps.json
+C:\Users\Alessandro\source\repos\Statistics HW 1 VS\Statistics HW 1 VS\bin\Debug\net6.0-windows\Statistics HW 1 VS.runtimeconfig.json
+C:\Users\Alessandro\source\repos\Statistics HW 1 VS\Statistics HW 1 VS\bin\Debug\net6.0-windows\Statistics HW 1 VS.dll
+C:\Users\Alessandro\source\repos\Statistics HW 1 VS\Statistics HW 1 VS\bin\Debug\net6.0-windows\Statistics HW 1 VS.pdb
+C:\Users\Alessandro\source\repos\Statistics HW 1 VS\Statistics HW 1 VS\obj\Debug\net6.0-windows\Statistics HW 1 VS.vbproj.AssemblyReference.cache
+C:\Users\Alessandro\source\repos\Statistics HW 1 VS\Statistics HW 1 VS\obj\Debug\net6.0-windows\Statistics_HW_1_VS.Form1.resources
+C:\Users\Alessandro\source\repos\Statistics HW 1 VS\Statistics HW 1 VS\obj\Debug\net6.0-windows\Statistics HW 1 VS.vbproj.GenerateResource.cache
+C:\Users\Alessandro\source\repos\Statistics HW 1 VS\Statistics HW 1 VS\obj\Debug\net6.0-windows\Statistics HW 1 VS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alessandro\source\repos\Statistics HW 1 VS\Statistics HW 1 VS\obj\Debug\net6.0-windows\Statistics HW 1 VS.AssemblyInfoInputs.cache
+C:\Users\Alessandro\source\repos\Statistics HW 1 VS\Statistics HW 1 VS\obj\Debug\net6.0-windows\Statistics HW 1 VS.AssemblyInfo.vb
+C:\Users\Alessandro\source\repos\Statistics HW 1 VS\Statistics HW 1 VS\obj\Debug\net6.0-windows\Statistics HW 1 VS.vbproj.CoreCompileInputs.cache
+C:\Users\Alessandro\source\repos\Statistics HW 1 VS\Statistics HW 1 VS\obj\Debug\net6.0-windows\Statistics HW 1 VS.dll
+C:\Users\Alessandro\source\repos\Statistics HW 1 VS\Statistics HW 1 VS\obj\Debug\net6.0-windows\refint\Statistics HW 1 VS.dll
+C:\Users\Alessandro\source\repos\Statistics HW 1 VS\Statistics HW 1 VS\obj\Debug\net6.0-windows\Statistics HW 1 VS.pdb
+C:\Users\Alessandro\source\repos\Statistics HW 1 VS\Statistics HW 1 VS\obj\Debug\net6.0-windows\Statistics HW 1 VS.genruntimeconfig.cache
+C:\Users\Alessandro\source\repos\Statistics HW 1 VS\Statistics HW 1 VS\obj\Debug\net6.0-windows\ref\Statistics HW 1 VS.dll
