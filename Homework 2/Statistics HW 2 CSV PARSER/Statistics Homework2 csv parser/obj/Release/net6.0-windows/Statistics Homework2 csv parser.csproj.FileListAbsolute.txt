@@ -1,0 +1,17 @@
+C:\Users\Alessandro\source\repos\Statistics Homework2 csv parser\Statistics Homework2 csv parser\bin\Release\net6.0-windows\Statistics Homework2 csv parser.exe
+C:\Users\Alessandro\source\repos\Statistics Homework2 csv parser\Statistics Homework2 csv parser\bin\Release\net6.0-windows\Statistics Homework2 csv parser.deps.json
+C:\Users\Alessandro\source\repos\Statistics Homework2 csv parser\Statistics Homework2 csv parser\bin\Release\net6.0-windows\Statistics Homework2 csv parser.runtimeconfig.json
+C:\Users\Alessandro\source\repos\Statistics Homework2 csv parser\Statistics Homework2 csv parser\bin\Release\net6.0-windows\Statistics Homework2 csv parser.dll
+C:\Users\Alessandro\source\repos\Statistics Homework2 csv parser\Statistics Homework2 csv parser\bin\Release\net6.0-windows\Statistics Homework2 csv parser.pdb
+C:\Users\Alessandro\source\repos\Statistics Homework2 csv parser\Statistics Homework2 csv parser\obj\Release\net6.0-windows\Statistics Homework2 csv parser.csproj.AssemblyReference.cache
+C:\Users\Alessandro\source\repos\Statistics Homework2 csv parser\Statistics Homework2 csv parser\obj\Release\net6.0-windows\Statistics_Homework2_csv_parser.Form1.resources
+C:\Users\Alessandro\source\repos\Statistics Homework2 csv parser\Statistics Homework2 csv parser\obj\Release\net6.0-windows\Statistics Homework2 csv parser.csproj.GenerateResource.cache
+C:\Users\Alessandro\source\repos\Statistics Homework2 csv parser\Statistics Homework2 csv parser\obj\Release\net6.0-windows\Statistics Homework2 csv parser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alessandro\source\repos\Statistics Homework2 csv parser\Statistics Homework2 csv parser\obj\Release\net6.0-windows\Statistics Homework2 csv parser.AssemblyInfoInputs.cache
+C:\Users\Alessandro\source\repos\Statistics Homework2 csv parser\Statistics Homework2 csv parser\obj\Release\net6.0-windows\Statistics Homework2 csv parser.AssemblyInfo.cs
+C:\Users\Alessandro\source\repos\Statistics Homework2 csv parser\Statistics Homework2 csv parser\obj\Release\net6.0-windows\Statistics Homework2 csv parser.csproj.CoreCompileInputs.cache
+C:\Users\Alessandro\source\repos\Statistics Homework2 csv parser\Statistics Homework2 csv parser\obj\Release\net6.0-windows\Statistics Homework2 csv parser.dll
+C:\Users\Alessandro\source\repos\Statistics Homework2 csv parser\Statistics Homework2 csv parser\obj\Release\net6.0-windows\refint\Statistics Homework2 csv parser.dll
+C:\Users\Alessandro\source\repos\Statistics Homework2 csv parser\Statistics Homework2 csv parser\obj\Release\net6.0-windows\Statistics Homework2 csv parser.pdb
+C:\Users\Alessandro\source\repos\Statistics Homework2 csv parser\Statistics Homework2 csv parser\obj\Release\net6.0-windows\Statistics Homework2 csv parser.genruntimeconfig.cache
+C:\Users\Alessandro\source\repos\Statistics Homework2 csv parser\Statistics Homework2 csv parser\obj\Release\net6.0-windows\ref\Statistics Homework2 csv parser.dll
