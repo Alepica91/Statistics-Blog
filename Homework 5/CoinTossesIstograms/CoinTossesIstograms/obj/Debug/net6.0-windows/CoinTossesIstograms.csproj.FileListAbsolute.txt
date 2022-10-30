@@ -1,0 +1,17 @@
+C:\Users\Alessandro\source\repos\CoinTossesIstograms\CoinTossesIstograms\obj\Debug\net6.0-windows\CoinTossesIstograms.csproj.AssemblyReference.cache
+C:\Users\Alessandro\source\repos\CoinTossesIstograms\CoinTossesIstograms\obj\Debug\net6.0-windows\CoinTossesIstograms.Form1.resources
+C:\Users\Alessandro\source\repos\CoinTossesIstograms\CoinTossesIstograms\obj\Debug\net6.0-windows\CoinTossesIstograms.csproj.GenerateResource.cache
+C:\Users\Alessandro\source\repos\CoinTossesIstograms\CoinTossesIstograms\obj\Debug\net6.0-windows\CoinTossesIstograms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alessandro\source\repos\CoinTossesIstograms\CoinTossesIstograms\obj\Debug\net6.0-windows\CoinTossesIstograms.AssemblyInfoInputs.cache
+C:\Users\Alessandro\source\repos\CoinTossesIstograms\CoinTossesIstograms\obj\Debug\net6.0-windows\CoinTossesIstograms.AssemblyInfo.cs
+C:\Users\Alessandro\source\repos\CoinTossesIstograms\CoinTossesIstograms\obj\Debug\net6.0-windows\CoinTossesIstograms.csproj.CoreCompileInputs.cache
+C:\Users\Alessandro\source\repos\CoinTossesIstograms\CoinTossesIstograms\bin\Debug\net6.0-windows\CoinTossesIstograms.exe
+C:\Users\Alessandro\source\repos\CoinTossesIstograms\CoinTossesIstograms\bin\Debug\net6.0-windows\CoinTossesIstograms.deps.json
+C:\Users\Alessandro\source\repos\CoinTossesIstograms\CoinTossesIstograms\bin\Debug\net6.0-windows\CoinTossesIstograms.runtimeconfig.json
+C:\Users\Alessandro\source\repos\CoinTossesIstograms\CoinTossesIstograms\bin\Debug\net6.0-windows\CoinTossesIstograms.dll
+C:\Users\Alessandro\source\repos\CoinTossesIstograms\CoinTossesIstograms\bin\Debug\net6.0-windows\CoinTossesIstograms.pdb
+C:\Users\Alessandro\source\repos\CoinTossesIstograms\CoinTossesIstograms\obj\Debug\net6.0-windows\CoinTossesIstograms.dll
+C:\Users\Alessandro\source\repos\CoinTossesIstograms\CoinTossesIstograms\obj\Debug\net6.0-windows\refint\CoinTossesIstograms.dll
+C:\Users\Alessandro\source\repos\CoinTossesIstograms\CoinTossesIstograms\obj\Debug\net6.0-windows\CoinTossesIstograms.pdb
+C:\Users\Alessandro\source\repos\CoinTossesIstograms\CoinTossesIstograms\obj\Debug\net6.0-windows\CoinTossesIstograms.genruntimeconfig.cache
+C:\Users\Alessandro\source\repos\CoinTossesIstograms\CoinTossesIstograms\obj\Debug\net6.0-windows\ref\CoinTossesIstograms.dll
