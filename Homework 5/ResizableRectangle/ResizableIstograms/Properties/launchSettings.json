@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Profilo 1": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Users\\Alessandro\\source\\repos\\ResizableRectangle\\ResizableIstograms\\bin\\Debug\\net6.0-windows\\ResizableRectangle.exe"
+    }
+  }
+}

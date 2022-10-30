@@ -1,0 +1,17 @@
+C:\Users\Alessandro\source\repos\ResizableIstograms\ResizableIstograms\obj\Debug\net6.0-windows\ResizableIstograms.csproj.AssemblyReference.cache
+C:\Users\Alessandro\source\repos\ResizableIstograms\ResizableIstograms\obj\Debug\net6.0-windows\ResizableIstograms.Form1.resources
+C:\Users\Alessandro\source\repos\ResizableIstograms\ResizableIstograms\obj\Debug\net6.0-windows\ResizableIstograms.csproj.GenerateResource.cache
+C:\Users\Alessandro\source\repos\ResizableIstograms\ResizableIstograms\obj\Debug\net6.0-windows\ResizableIstograms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alessandro\source\repos\ResizableIstograms\ResizableIstograms\obj\Debug\net6.0-windows\ResizableIstograms.AssemblyInfoInputs.cache
+C:\Users\Alessandro\source\repos\ResizableIstograms\ResizableIstograms\obj\Debug\net6.0-windows\ResizableIstograms.AssemblyInfo.cs
+C:\Users\Alessandro\source\repos\ResizableIstograms\ResizableIstograms\obj\Debug\net6.0-windows\ResizableIstograms.csproj.CoreCompileInputs.cache
+C:\Users\Alessandro\source\repos\ResizableIstograms\ResizableIstograms\bin\Debug\net6.0-windows\ResizableIstograms.exe
+C:\Users\Alessandro\source\repos\ResizableIstograms\ResizableIstograms\bin\Debug\net6.0-windows\ResizableIstograms.deps.json
+C:\Users\Alessandro\source\repos\ResizableIstograms\ResizableIstograms\bin\Debug\net6.0-windows\ResizableIstograms.runtimeconfig.json
+C:\Users\Alessandro\source\repos\ResizableIstograms\ResizableIstograms\bin\Debug\net6.0-windows\ResizableIstograms.dll
+C:\Users\Alessandro\source\repos\ResizableIstograms\ResizableIstograms\bin\Debug\net6.0-windows\ResizableIstograms.pdb
+C:\Users\Alessandro\source\repos\ResizableIstograms\ResizableIstograms\obj\Debug\net6.0-windows\ResizableIstograms.dll
+C:\Users\Alessandro\source\repos\ResizableIstograms\ResizableIstograms\obj\Debug\net6.0-windows\refint\ResizableIstograms.dll
+C:\Users\Alessandro\source\repos\ResizableIstograms\ResizableIstograms\obj\Debug\net6.0-windows\ResizableIstograms.pdb
+C:\Users\Alessandro\source\repos\ResizableIstograms\ResizableIstograms\obj\Debug\net6.0-windows\ResizableIstograms.genruntimeconfig.cache
+C:\Users\Alessandro\source\repos\ResizableIstograms\ResizableIstograms\obj\Debug\net6.0-windows\ref\ResizableIstograms.dll
