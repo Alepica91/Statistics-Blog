@@ -1,0 +1,17 @@
+C:\Users\Alessandro\source\repos\MedianVariance\MedianVariance\obj\Debug\net6.0-windows\MedianVariance.csproj.AssemblyReference.cache
+C:\Users\Alessandro\source\repos\MedianVariance\MedianVariance\obj\Debug\net6.0-windows\MedianVariance.Form1.resources
+C:\Users\Alessandro\source\repos\MedianVariance\MedianVariance\obj\Debug\net6.0-windows\MedianVariance.csproj.GenerateResource.cache
+C:\Users\Alessandro\source\repos\MedianVariance\MedianVariance\obj\Debug\net6.0-windows\MedianVariance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alessandro\source\repos\MedianVariance\MedianVariance\obj\Debug\net6.0-windows\MedianVariance.AssemblyInfoInputs.cache
+C:\Users\Alessandro\source\repos\MedianVariance\MedianVariance\obj\Debug\net6.0-windows\MedianVariance.AssemblyInfo.cs
+C:\Users\Alessandro\source\repos\MedianVariance\MedianVariance\obj\Debug\net6.0-windows\MedianVariance.csproj.CoreCompileInputs.cache
+C:\Users\Alessandro\source\repos\MedianVariance\MedianVariance\bin\Debug\net6.0-windows\MedianVariance.exe
+C:\Users\Alessandro\source\repos\MedianVariance\MedianVariance\bin\Debug\net6.0-windows\MedianVariance.deps.json
+C:\Users\Alessandro\source\repos\MedianVariance\MedianVariance\bin\Debug\net6.0-windows\MedianVariance.runtimeconfig.json
+C:\Users\Alessandro\source\repos\MedianVariance\MedianVariance\bin\Debug\net6.0-windows\MedianVariance.dll
+C:\Users\Alessandro\source\repos\MedianVariance\MedianVariance\bin\Debug\net6.0-windows\MedianVariance.pdb
+C:\Users\Alessandro\source\repos\MedianVariance\MedianVariance\obj\Debug\net6.0-windows\MedianVariance.dll
+C:\Users\Alessandro\source\repos\MedianVariance\MedianVariance\obj\Debug\net6.0-windows\refint\MedianVariance.dll
+C:\Users\Alessandro\source\repos\MedianVariance\MedianVariance\obj\Debug\net6.0-windows\MedianVariance.pdb
+C:\Users\Alessandro\source\repos\MedianVariance\MedianVariance\obj\Debug\net6.0-windows\MedianVariance.genruntimeconfig.cache
+C:\Users\Alessandro\source\repos\MedianVariance\MedianVariance\obj\Debug\net6.0-windows\ref\MedianVariance.dll
