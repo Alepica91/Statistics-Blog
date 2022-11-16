@@ -1,0 +1,17 @@
+C:\Users\Alessandro\source\repos\Bernoulli lambda n\Bernoulli lambda n\obj\Debug\net6.0-windows\Bernoulli lambda n.csproj.AssemblyReference.cache
+C:\Users\Alessandro\source\repos\Bernoulli lambda n\Bernoulli lambda n\obj\Debug\net6.0-windows\Bernoulli_lambda_n.Form1.resources
+C:\Users\Alessandro\source\repos\Bernoulli lambda n\Bernoulli lambda n\obj\Debug\net6.0-windows\Bernoulli lambda n.csproj.GenerateResource.cache
+C:\Users\Alessandro\source\repos\Bernoulli lambda n\Bernoulli lambda n\obj\Debug\net6.0-windows\Bernoulli lambda n.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alessandro\source\repos\Bernoulli lambda n\Bernoulli lambda n\obj\Debug\net6.0-windows\Bernoulli lambda n.AssemblyInfoInputs.cache
+C:\Users\Alessandro\source\repos\Bernoulli lambda n\Bernoulli lambda n\obj\Debug\net6.0-windows\Bernoulli lambda n.AssemblyInfo.cs
+C:\Users\Alessandro\source\repos\Bernoulli lambda n\Bernoulli lambda n\obj\Debug\net6.0-windows\Bernoulli lambda n.csproj.CoreCompileInputs.cache
+C:\Users\Alessandro\source\repos\Bernoulli lambda n\Bernoulli lambda n\bin\Debug\net6.0-windows\Bernoulli lambda n.exe
+C:\Users\Alessandro\source\repos\Bernoulli lambda n\Bernoulli lambda n\bin\Debug\net6.0-windows\Bernoulli lambda n.deps.json
+C:\Users\Alessandro\source\repos\Bernoulli lambda n\Bernoulli lambda n\bin\Debug\net6.0-windows\Bernoulli lambda n.runtimeconfig.json
+C:\Users\Alessandro\source\repos\Bernoulli lambda n\Bernoulli lambda n\bin\Debug\net6.0-windows\Bernoulli lambda n.dll
+C:\Users\Alessandro\source\repos\Bernoulli lambda n\Bernoulli lambda n\bin\Debug\net6.0-windows\Bernoulli lambda n.pdb
+C:\Users\Alessandro\source\repos\Bernoulli lambda n\Bernoulli lambda n\obj\Debug\net6.0-windows\Bernoulli lambda n.dll
+C:\Users\Alessandro\source\repos\Bernoulli lambda n\Bernoulli lambda n\obj\Debug\net6.0-windows\refint\Bernoulli lambda n.dll
+C:\Users\Alessandro\source\repos\Bernoulli lambda n\Bernoulli lambda n\obj\Debug\net6.0-windows\Bernoulli lambda n.pdb
+C:\Users\Alessandro\source\repos\Bernoulli lambda n\Bernoulli lambda n\obj\Debug\net6.0-windows\Bernoulli lambda n.genruntimeconfig.cache
+C:\Users\Alessandro\source\repos\Bernoulli lambda n\Bernoulli lambda n\obj\Debug\net6.0-windows\ref\Bernoulli lambda n.dll
